@@ -1,0 +1,3 @@
+Hi there.
+This is Programming In Python Course.
+This course based on basics of python.
